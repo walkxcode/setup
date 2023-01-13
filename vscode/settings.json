@@ -98,7 +98,7 @@
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.cursorBlinking": true,
   "terminal.integrated.cursorStyle": "line",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.fontFamily": "'VictorMono Nerd Font', Consolas, 'Courier New', monospace",
   "terminal.integrated.fontSize": 14,
 
